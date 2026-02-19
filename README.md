@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">Exploring applied AI/ML and real-world LLM systems</h3>
+<h3 align="center">Learning AI/ML and real-world applications</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
